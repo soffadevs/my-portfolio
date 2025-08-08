@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Navbar {
+    background-color: lightblue;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.Navbar a {
+    color: navy;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.Navbar a:hover {
+    color: white;
+}
+.Logo{
+    width: 100px;
+    height: 100px;
+}
+.Logo:hover{
+    transform: scale(2);
+}

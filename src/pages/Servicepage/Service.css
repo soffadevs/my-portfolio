@@ -1,0 +1,53 @@
+.service-card{
+    width: 330px;
+    height: 259px;
+    padding-top: 30px;
+}
+.contact{
+    text-align: center;
+    margin-top: 100px;
+}
+#contact-text{
+    margin-bottom: 50px;
+}
+.contact-icons{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+#twitter{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    padding: 5px;
+}
+#linked{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    padding: 5px;
+}
+#git{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    padding: 5px;
+}
+#envelop{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    padding: 5px;
+}
+#twitter:hover{
+   transform: translateY(5px);
+   border: 2px solid blue;
+}
+#linked:hover{
+    transform: translateY(5px);
+    border: 2px solid blue;
+}
+#git:hover{
+    transform: translateY(5px);
+    border: 2px solid blue;
+}
+#envelop:hover{
+  transform: translateY(5px);
+  border: 2px solid blue;
+}

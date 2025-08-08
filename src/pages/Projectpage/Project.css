@@ -1,0 +1,76 @@
+.huddle{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+
+}
+.huddle:hover{
+    border: 3px solid blue;
+}
+.page{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.page:hover{
+     border: 3px solid blue;
+}
+.social{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+     
+}
+.social:hover{
+     border: 3px solid blue;
+}
+.counter{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.counter:hover{
+     border: 3px solid blue;
+}
+.sign{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.sign:hover{
+     border: 3px solid blue;
+}
+.todo{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.todo:hover{
+     border: 3px solid blue;
+}
+p{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.more{
+
+    padding: 5px;
+    border: 1px solid blue;
+    width: fit-content;
+    border-radius: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+}
+.more:hover{
+    background-color: lightblue;
+}

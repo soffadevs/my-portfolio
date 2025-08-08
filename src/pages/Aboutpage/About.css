@@ -1,0 +1,80 @@
+.About-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: blue;
+}
+ .about-text{
+    text-align: justify;
+    align-self: center;
+ }
+ .tools > hr{
+    width: 50%;
+    margin-left: 25%;
+ }
+ .about-text > p > span{
+   color: blue;
+   font-weight: 700;
+   font-size: 20px;
+ }
+ .card{
+   transition: transform 0.3s ease, box-shadow 0.3s ease,;
+ }
+ .card:hover {
+  transform: scale(1.05); 
+  box-shadow: 8px 8px black;
+  border: 1px solid blue;
+}
+ .tools-sec{
+   text-align: center;
+ }
+.tools{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    justify-content: center;
+    margin-top: 50px;
+}
+#vscode{
+width: 45px;
+height: 45px;
+border: 2px solid blue;
+padding: 10px;
+border-radius: 10px;
+}
+#vscode:hover{
+   transform: translateX(20px);
+}
+#react{
+   width: 48px;
+   height: 45px;
+   border: 2px solid blue;
+   padding: 5px;
+   border-radius: 10px;
+
+}
+#react:hover{
+   transform: translateX(20px);
+}
+#github{
+   width: 48px;
+   height: 45px;
+   border: 2px solid blue;
+   padding: 5px;
+   border-radius: 10px;
+}
+#github:hover{
+   transform: translateX(20px);
+}
+#figma{
+   width: 45px;
+   height: 50px;
+   border: 2px solid blue;
+   padding: 5px;
+   border-radius: 10px;
+}
+#figma:hover{
+   transform: translateX(20px);
+}
+ 
