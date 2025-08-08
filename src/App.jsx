@@ -3,7 +3,7 @@
  import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Home from './pages/Homepage/Home'
-import About from './pages/AboutPage/About'
+import About from './pages/Aboutpage/About'
 import Project from './pages/Projectpage/Project'
 import Service from './pages/Servicepage/Service'
  
